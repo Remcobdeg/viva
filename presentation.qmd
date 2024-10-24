@@ -1,0 +1,123 @@
+---
+title: "Designing Digital Technology to Empower Climate-Sensitive Food Purchases"
+subtitle: "A brief overview of the PhD thesis for the VIVA"
+date: 2024-12-13
+author: "Remco Benthem de Grave"
+format: revealjs
+editor: visual
+---
+
+## Aim of the Thesis
+
+-   To propose, and pilot, a practical tool for people that wish to take control of the carbon footprint of their diet
+-   To do so in a way that is respectful of the user's autonomy
+-   While honestly considering realistic limitations of technology adoption
+
+## Motivation
+
+-   Part of the Behaviour Informatics Studentship (not Digital Civics)
+-   Interest in behaviour science
+-   Affinity with environmental sustainability
+-   Interest in technology and applied science
+
+## Outcomes include
+
+::::: columns
+::: {.column width="60%"}
+-   Four studies that culminate in the development and field evaluation of the MyFootpint app to benefit foodprint literacy (Ch.2-5)
+-   A critical reflection on autonomy in persuasive design (Ch.6)
+:::
+
+
+::: {.column width="20%"}
+![](presentation figures/app1.png)
+:::
+::: {.column width="20%"}
+![](presentation figures/app2.png)
+:::
+:::::
+
+
+
+# Overview of Chapters
+
+## Ch.2: Scoping Review (ScSLR)
+
+::::: columns
+::: {.column width="60%"}
+-   Scope: Apps to support grocery purchases choices.
+-   Outcome: opportunities and challenges with design choices.
+-   In-store assistants rely on on consistent use and long term adoption, yet do not encourage it.
+-   Apps that encourage learning through reflection are more promising.
+:::
+
+::: {.column width="40%"}
+![](presentation%20figures/Fig1v2.png){fig-align="right"}
+:::
+:::::
+
+## Ch.3: Participatory Design
+
+::::: columns
+::: {.column width="70%"}
+-   Outcome: Attitudes to design features.
+-   Beyond recommendation, an interest for learning.
+-   Mixed opinions about motivational features (mostly critical).
+:::
+
+::: {.column width="30%"}
+![](presentation%20figures/cards.png)
+:::
+:::::
+
+## Ch.4: Iterative Design
+
+::::: columns
+::: {.column width="60%"}
+-   Four design cycles.
+-   Learning over tracking.
+-   Practical value of the Wordcloud.
+-   Importance of exploring alternatives.
+:::
+
+::: {.column width="40%"}
+![](presentation%20figures/iteration_cycle.png) ![](presentation%20figures/wordcloud.png)
+:::
+:::::
+
+## Ch.5: Field Study
+
+::::: columns
+::: {.column width="60%"}
+-   Positive user experience.
+-   Sparking curiosity : Large increase in foodprint literacy.
+-   Gentle guidance : Large increase in self-efficacy.
+-   Sparking conversation : Indirect impact
+:::
+
+::: {.column width="40%"}
+![](presentation%20figures/field_study_results.png)
+:::
+:::::
+
+## Ch.6: Practical Design Guideline
+
+::::: columns
+::: {.column width="60%"}
+-   Reflecting on literature and experience from development process.
+-   Drawing attention to motivating influences as ethically problematic.
+-   Providing a framework for mapping persuasive techniques.
+:::
+
+::: {.column width="40%"}
+![](presentation%20figures/framework.png)
+:::
+:::::
+
+# Other notes
+
+## Limitations include
+
+-   Potential direct impact on environment is limited
+-   The application is not a final prototype and leaves ample room for further development (eg, automating data processing, additional options to explore data in the app)
+-   Carbon footprint is only part of the picture of environmental sustainability
