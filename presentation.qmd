@@ -22,22 +22,20 @@ editor: visual
 
 ## Outcomes include
 
-::::: columns
+:::::: columns
 ::: {.column width="60%"}
 -   Four studies that culminate in the development and field evaluation of the MyFootpint app to benefit foodprint literacy (Ch.2-5)
 -   A critical reflection on autonomy in persuasive design (Ch.6)
 :::
 
+::: {.column width="20%"}
+![](presentation%20figures/app1.png)
+:::
 
 ::: {.column width="20%"}
-![](presentation figures/app1.png)
+![](presentation%20figures/app2.png)
 :::
-::: {.column width="20%"}
-![](presentation figures/app2.png)
-:::
-:::::
-
-
+::::::
 
 # Overview of Chapters
 
@@ -47,6 +45,7 @@ editor: visual
 ::: {.column width="60%"}
 -   Scope: Apps to support grocery purchases choices.
 -   Outcome: opportunities and challenges with design choices.
+-   Key insights:
 -   In-store assistants rely on on consistent use and long term adoption, yet do not encourage it.
 -   Apps that encourage learning through reflection are more promising.
 :::
@@ -60,7 +59,9 @@ editor: visual
 
 ::::: columns
 ::: {.column width="70%"}
+-   Workshops with a card sorting activity
 -   Outcome: Attitudes to design features.
+-   Key insights:
 -   Beyond recommendation, an interest for learning.
 -   Mixed opinions about motivational features (mostly critical).
 :::
@@ -75,6 +76,7 @@ editor: visual
 ::::: columns
 ::: {.column width="60%"}
 -   Four design cycles.
+-   Key insights:
 -   Learning over tracking.
 -   Practical value of the Wordcloud.
 -   Importance of exploring alternatives.
@@ -85,10 +87,12 @@ editor: visual
 :::
 :::::
 
-## Ch.5: Field Study
+## Ch.5: In-the-Wild Study
 
 ::::: columns
 ::: {.column width="60%"}
+-   3-week field study with MyFoodprint app.
+-   Key insights:
 -   Positive user experience.
 -   Sparking curiosity : Large increase in foodprint literacy.
 -   Gentle guidance : Large increase in self-efficacy.
@@ -114,7 +118,7 @@ editor: visual
 :::
 :::::
 
-# Other notes
+# Limitations
 
 ## Limitations include
 
