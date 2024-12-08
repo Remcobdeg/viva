@@ -110,7 +110,7 @@ editor: visual
 ::: {.column width="60%"}
 -   Reflecting on literature and experience from development process.
 -   Drawing attention to motivating influences as ethically problematic.
--   Providing a framework for mapping persuasive techniques.
+-   Providing a guideline for assessing persuasive techniques for autonomy respectful design of BCSSs.
 :::
 
 ::: {.column width="40%"}
