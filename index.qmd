@@ -22,20 +22,16 @@ editor: visual
 
 ## Outcomes include
 
-:::::: columns
+::::: columns
 ::: {.column width="60%"}
 -   Four studies that culminate in the development and field evaluation of the MyFootpint app to benefit foodprint literacy (Ch.2-5)
 -   A critical reflection on autonomy in persuasive design (Ch.6)
 :::
 
-::: {.column width="20%"}
-![](presentation%20figures/app1.png)
+::: {.column width="40%"}
+![](presentation%20figures/fig_1.1.png)
 :::
-
-::: {.column width="20%"}
-![](presentation%20figures/app2.png)
-:::
-::::::
+:::::
 
 # Overview of Chapters
 
@@ -62,7 +58,7 @@ editor: visual
 -   Workshops with a card sorting activity
 -   Outcome: Attitudes to design features.
 -   Key insights:
--   Beyond recommendation, an interest for learning.
+-   Beyond mere recommendation, participants express interest for learning (understanding the 'why').
 -   Mixed opinions about motivational features (mostly critical).
 :::
 
@@ -77,7 +73,7 @@ editor: visual
 ::: {.column width="60%"}
 -   Four design cycles.
 -   Key insights:
--   Learning over tracking.
+-   Prioritise learning over tracking features.
 -   Practical value of the Wordcloud.
 -   Importance of exploring alternatives.
 :::
@@ -125,3 +121,22 @@ editor: visual
 -   Potential direct impact on environment is limited
 -   The application is not a final prototype and leaves ample room for further development (eg, automating data processing, additional options to explore data in the app)
 -   Carbon footprint is only part of the picture of environmental sustainability
+
+# App demo
+
+## MyFoodprint
+
+:::::: columns
+::: {.column width="60%"}
+-   <a href="https://myfoodprint.openlab.dev/" target="_blank">Live version of the app</a>\
+-   <a href="https://www.youtube.com/watch?v=gFLJKhROnqA" target="_blank">Demo video</a>\
+:::
+
+::: {.column width="20%"}
+![](presentation%20figures/app1.png)
+:::
+
+::: {.column width="20%"}
+![](presentation%20figures/app2.png)
+:::
+::::::
